@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="APP CHO VAY ONLINE KHÁCH HÀNG CÁ NHÂN_NGUYỄN MINH TÂM", page_icon="🏦", layout="centered")
 
 # --- THÔNG TIN TIÊU ĐỀ ---
-st.title("🏦 Hệ Thống Thẩm Định & Phê Duyệt Tín Dụng Tự Động")
+st.title("🏦 APP CHO VAY ONLINE KHÁCH HÀNG CÁ NHÂN_ĐỀ TÀI 5_NGUYỄN MINH TÂM")
 st.write("Đánh giá hồ sơ dựa trên: Khả năng trả nợ (DTI), Tài sản bảo đảm (LTV), Pháp lý (Tuổi) và Lịch sử tín dụng (CIC).")
 st.markdown("---")
 
