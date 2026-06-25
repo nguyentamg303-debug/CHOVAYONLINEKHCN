@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Cấu hình giao diện ứng dụng
-st.set_page_config(page_title="App Thẩm Định Tín Dụng Toàn Diện 2026", page_icon="🏦", layout="centered")
+st.set_page_config(page_title="APP CHO VAY ONLINE KHÁCH HÀNG CÁ NHÂN_NGUYỄN MINH TÂM", page_icon="🏦", layout="centered")
 
 # --- THÔNG TIN TIÊU ĐỀ ---
 st.title("🏦 Hệ Thống Thẩm Định & Phê Duyệt Tín Dụng Tự Động")
